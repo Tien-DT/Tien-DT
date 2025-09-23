@@ -23,3 +23,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tien-dt&show_icons=true&locale=en" alt="tien-dt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tien-dt&" alt="tien-dt" /></p>
+
+<!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
+<h3 align="center">🐍 Snake eating my contributions</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tien-dt/tien-dt/output/snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tien-dt/tien-dt/output/snake.svg" />
+  </picture>
+</p>
