@@ -4,7 +4,7 @@
 - 📫 How to reach me **trongtiensp007@gmail.com**
 
 <!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
-<h3 align="center">🐍 Snake eating my contributions</h3>
+<h1 align="center">My contributions</h1>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tien-dt/tien-dt/output/snake-dark.svg" />
