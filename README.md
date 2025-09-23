@@ -30,5 +30,5 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tien-dt/tien-dt/output/snake-dark.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/tien-dt/tien-dt/output/snake.svg" />
-  </picture>](https://raw.githubusercontent.com/tien-dt/tien-dt/output/snake.svg)
+  </picture>
 </p>
