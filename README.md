@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tien Trong :3</h1>
-<h3 align="center">A Student studying at a University in VietNam</h3>
-
 - 📫 How to reach me **trongtiensp007@gmail.com**
 
 <!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
